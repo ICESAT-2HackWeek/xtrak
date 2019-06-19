@@ -30,9 +30,9 @@ Pie-in-the-sky goal: essentially continuously updating elevation profiles, such 
 Most tracks over Greenland outlet glaciers are across-flow rather than along-flow, so it is hard to get a single temporally-consistent elevation profile of a glacier. By interpolating between neighboring tracks, we can build an along-flow elevation profiles of Zachariae Isstrom roughly every two weeks.
 
 ## Sample Data
-* IceBridge, 2018
+* Operation IceBridge, ATM profile, 2018
  `size, format, access?`
-*
+* 
 
 ## Specific Questions
 * Can we reasonably estimate elevation `z(x,y,t)` for any arbitrary space `(x,y)` and time `(t)`?
