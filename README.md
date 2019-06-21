@@ -52,6 +52,7 @@ Most tracks over Greenland outlet glaciers are across-flow rather than along-flo
 # Workflow
 
 1. **Get Data**
+
 | method | script | input data | output data | notes |
 | ------ | ------ | ---------- | ----------- | ----- |
 bash script download | data_raw/downloadData.sh | NSIDC | data_raw/ATL06evan | |
